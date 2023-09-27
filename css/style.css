@@ -1,0 +1,53 @@
+.main {
+	height: 350px;
+	width: 510px;
+	padding: 15px;
+	margin: auto;
+}
+
+.topimage {
+	height: 100px;
+	width: 500px;
+}
+
+.middlediv {
+	display: flex;
+}
+
+.md {
+	height: 225px;
+	margin: 0px;
+	text-align: left-side;
+}
+
+.rgform {
+	margin: 10px;
+	padding: 10px;
+	background-color: #3fcb49;
+}
+
+.lblForm,
+.txtbox {
+	margin: 5px;
+}
+
+.btnsubmit {
+	padding: 0px;
+	margin-top: 5px;
+	margin-left: 6px;
+
+}
+
+.footerdiv {
+	display: flex;
+	justify-content: center;
+}
+
+.fd {
+	height: 150px;
+	width: 200px;
+	background-color: green;
+	margin: 10px;
+	padding: 10px;
+	text-align: center;
+}
